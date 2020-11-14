@@ -1,6 +1,6 @@
 # docker.dotnet-sdk-npm
 
-Dotnet Sdk docker image with Npm inside 
+Dotnet Sdk v3.1 docker image with Npm inside 
 
 ## Install
 
